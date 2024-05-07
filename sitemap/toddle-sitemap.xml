@@ -88,6 +88,16 @@
   </url>
   <!-- Blog posts -->
   <url>
+    <loc>https://toddle.dev/blog/the-carcinization-of-web-frameworks</loc>
+    <lastmod>2024-05-07T08:18:51+00:00</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://toddle.dev/blog/how-useless-apps-teach-you-how-to-program-faster</loc>
+    <lastmod>2024-05-07T08:18:51+00:00</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://toddle.dev/blog/no-more-dreadful-dropdowns-long-live-popover</loc>
     <lastmod>2024-04-29T08:18:51+00:00</lastmod>
     <priority>0.6</priority>
