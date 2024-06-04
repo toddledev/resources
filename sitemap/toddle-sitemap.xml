@@ -57,6 +57,16 @@
   </url>
   <!-- Blog and Docs pages Main pages that we consider important Score 0.4 - 0.7 -->
   <url>
+    <loc>https://toddle.dev/blog/built-in-toddle-exported-to-webflow</loc>
+    <lastmod>2024-06-03T08:18:51+00:00</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://toddle.dev/blog/faster-than-light-loading-with-speculation-rules-api</loc>
+    <lastmod>2024-06-02T08:18:51+00:00</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://toddle.dev/docs/day-1-lets-build-a-weather-app</loc>
     <lastmod>2024-04-29T08:18:51+00:00</lastmod>
     <priority>0.79</priority>
