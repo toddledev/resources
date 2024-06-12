@@ -98,6 +98,11 @@
   </url>
   <!-- Blog posts -->
   <url>
+    <loc>https://toddle.dev/blog/unleash-the-spectrum-with-an-advanced-color-picker</loc>
+    <lastmod>2024-06-12T08:18:51+00:00</lastmod>
+    <priority>0.6</priority>
+  </url>  
+  <url>
     <loc>https://toddle.dev/blog/the-carcinization-of-web-frameworks</loc>
     <lastmod>2024-05-07T08:18:51+00:00</lastmod>
     <priority>0.6</priority>
@@ -515,7 +520,22 @@
     <lastmod>2024-04-29T08:18:51+00:00</lastmod>
     <priority>0.4</priority>
   </url>
-  <!-- Agency partners Score: 0.3 -->
+  <!-- Agency partners and filler content Score: 0.3 -->
+  <url>
+    <loc>https://toddle.dev/named-html-colors</loc>
+    <lastmod>2024-06-12T08:18:51+00:00</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://toddle.dev/docs/actions/reference</loc>
+    <lastmod>2024-06-12T08:18:51+00:00</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://toddle.dev/docs/formulas/reference</loc>
+    <lastmod>2024-06-12T08:18:51+00:00</lastmod>
+    <priority>0.3</priority>
+  </url>
   <url>
     <loc>https://toddle.dev/partners/visual-devs</loc>
     <lastmod>2024-04-29T08:18:51+00:00</lastmod>
