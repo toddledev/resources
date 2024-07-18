@@ -55,7 +55,32 @@
     <lastmod>2024-04-29T08:18:51+00:00</lastmod>
     <priority>0.80</priority>
   </url>
+  <url>
+    <loc>https://toddle.dev/unicorn-pricing</loc>
+    <lastmod>2024-07-12T08:18:51+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://toddle.dev/contact</loc>
+    <lastmod>2024-07-18T08:18:51+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
   <!-- Blog and Docs pages Main pages that we consider important Score 0.4 - 0.7 -->
+  <url>
+    <loc>https://toddle.dev/blog/Physics-based-animations-spring-to-life</loc>
+    <lastmod>2024-07-16T08:18:51+00:00</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://toddle.dev/blog/can-software-identify-the-next-pogacar</loc>
+    <lastmod>2024-07-14T08:18:51+00:00</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://toddle.dev/blog/unleash-the-spectrum-with-an-advanced-color-picker</loc>
+    <lastmod>2024-07-12T08:18:51+00:00</lastmod>
+    <priority>0.6</priority>
+  </url>
   <url>
     <loc>https://toddle.dev/blog/built-in-toddle-exported-to-webflow</loc>
     <lastmod>2024-06-03T08:18:51+00:00</lastmod>
