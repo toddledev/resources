@@ -1,0 +1,31 @@
+# Robots.txt file for toddle.dev
+
+# Allow all robots complete access
+User-agent: *
+Disallow:
+
+# Block specific bots (example: BadBot)
+User-agent: 
+Disallow: 
+
+# Disallow crawling of specific directories
+User-agent: *
+Disallow: /projects/toddle/
+
+# Disallow crawling of specific files
+User-agent: 
+
+# Allow only specific robots to a specific directory
+User-agent: 
+Allow: 
+
+# Disallow crawling of dynamic URLs with query parameters
+User-agent: *
+Disallow: /*?*
+
+# Sitemap location
+Sitemap: https://raw.githubusercontent.com/toddledev/resources/main/sitemap/toddle-sitemap.xml
+
+# Crawl-delay (in seconds) for all robots (optional)
+User-agent: *
+Crawl-delay: 10
