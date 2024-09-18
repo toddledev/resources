@@ -7,7 +7,7 @@
   <!-- Main pages that we consider important Score 0.8 - 1.0 -->
   <url>
     <loc>https://toddle.dev/</loc>
-    <lastmod>2024-04-29T08:16:35+00:00</lastmod>
+    <lastmod>2024-09-04T08:16:35+00:00</lastmod>
     <priority>1.00</priority>
   </url>
   <url>
@@ -70,7 +70,49 @@
     <lastmod>2024-07-18T08:18:51+00:00</lastmod>
     <priority>0.80</priority>
   </url>
+  <url>
+    <loc>https://toddle.dev/academy</loc>
+    <lastmod>2024-09-17T08:18:51+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
   <!-- Blog and Docs pages Main pages that we consider important Score 0.4 - 0.7 -->
+  <url>
+    <loc>https://toddle.dev/press-kit/</loc>
+    <lastmod>2024-06-26T08:18:51+00:00</lastmod>
+    <priority>0.74</priority>
+  </url>
+  <!-- Academy -->
+  <url>
+    <loc>https://toddle.dev/academy/the-first-week-in-toddle</loc>
+    <lastmod>2024-09-17T08:18:51+00:00</lastmod>
+    <priority>0.79</priority>
+  </url>
+  <url>
+    <loc>https://toddle.dev/academy/seo-for-toddlers</loc>
+    <lastmod>2024-09-17T08:18:51+00:00</lastmod>
+    <priority>0.78</priority>
+  </url>
+  <url>
+    <loc>https://toddle.dev/academy/a-bubble-developers-guide-to-toddle</loc>
+    <lastmod>2024-09-17T08:18:51+00:00</lastmod>
+    <priority>0.77</priority>
+  </url>
+  <!-- Blog posts -->
+  <url>
+    <loc>https://toddle.dev/blog/why-do-all-websites-look-the-same</loc>
+    <lastmod>2024-09-04T08:18:51+00:00</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://toddle.dev/blog/no-more-no-code</loc>
+    <lastmod>2024-08-23T08:18:51+00:00</lastmod>
+    <priority>0.6</priority>
+  </url> 
+  <url>
+    <loc>https://toddle.dev/blog/how-we-raised-a-four-point-three-million-dollar-seed-round</loc>
+    <lastmod>2024-07-31T08:18:51+00:00</lastmod>
+    <priority>0.6</priority>
+  </url>
   <url>
     <loc>https://toddle.dev/blog/toddle-is-soon-open-source</loc>
     <lastmod>2024-07-25T08:18:51+00:00</lastmod>
@@ -101,42 +143,6 @@
     <lastmod>2024-06-02T08:18:51+00:00</lastmod>
     <priority>0.6</priority>
   </url>
-  <url>
-    <loc>https://toddle.dev/docs/day-1-lets-build-a-weather-app</loc>
-    <lastmod>2024-04-29T08:18:51+00:00</lastmod>
-    <priority>0.79</priority>
-  </url>
-  <url>
-    <loc>https://toddle.dev/docs/day-2-itunes-search-tool</loc>
-    <lastmod>2024-04-29T08:18:51+00:00</lastmod>
-    <priority>0.78</priority>
-  </url>
-  <url>
-    <loc>https://toddle.dev/docs/day-3-todo-app-with-an-external-backend</loc>
-    <lastmod>2024-04-29T08:18:51+00:00</lastmod>
-    <priority>0.77</priority>
-  </url>
-  <url>
-    <loc>https://toddle.dev/docs/day-4-ace-hit-me-21-blackjack</loc>
-    <lastmod>2024-04-29T08:18:51+00:00</lastmod>
-    <priority>0.76</priority>
-  </url>
-  <url>
-    <loc>https://toddle.dev/docs/day-5-showcase-data-in-a-dashboard</loc>
-    <lastmod>2024-04-29T08:18:51+00:00</lastmod>
-    <priority>0.75</priority>
-  </url>
-  <url>
-    <loc>https://toddle.dev/docs/you-made-it</loc>
-    <lastmod>2024-04-29T08:18:51+00:00</lastmod>
-    <priority>0.74</priority>
-  </url>
-  <url>
-    <loc>https://toddle.dev/press-kit/</loc>
-    <lastmod>2024-06-26T08:18:51+00:00</lastmod>
-    <priority>0.74</priority>
-  </url>
-  <!-- Blog posts -->
   <url>
     <loc>https://toddle.dev/blog/can-software-identify-the-next-pogacar</loc>
     <lastmod>2024-07-02T08:18:51+00:00</lastmod>
@@ -294,6 +300,36 @@
     <priority>0.5</priority>
   </url>
   <!-- Docs -->
+  <url>
+    <loc>https://toddle.dev/docs/day-1-lets-build-a-weather-app</loc>
+    <lastmod>2024-04-29T08:18:51+00:00</lastmod>
+    <priority>0.79</priority>
+  </url>
+  <url>
+    <loc>https://toddle.dev/docs/day-2-itunes-search-tool</loc>
+    <lastmod>2024-04-29T08:18:51+00:00</lastmod>
+    <priority>0.78</priority>
+  </url>
+  <url>
+    <loc>https://toddle.dev/docs/day-3-todo-app-with-an-external-backend</loc>
+    <lastmod>2024-04-29T08:18:51+00:00</lastmod>
+    <priority>0.77</priority>
+  </url>
+  <url>
+    <loc>https://toddle.dev/docs/day-4-ace-hit-me-21-blackjack</loc>
+    <lastmod>2024-04-29T08:18:51+00:00</lastmod>
+    <priority>0.76</priority>
+  </url>
+  <url>
+    <loc>https://toddle.dev/docs/day-5-showcase-data-in-a-dashboard</loc>
+    <lastmod>2024-04-29T08:18:51+00:00</lastmod>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://toddle.dev/docs/you-made-it</loc>
+    <lastmod>2024-04-29T08:18:51+00:00</lastmod>
+    <priority>0.74</priority>
+  </url>
   <url>
     <loc>https://toddle.dev/docs/create-project</loc>
     <lastmod>2024-04-29T08:18:51+00:00</lastmod>
@@ -670,12 +706,12 @@
   <!--  Login, signup, and chatbot -->
   <url>
     <loc>https://toddle.dev/signup</loc>
-    <lastmod>2024-04-29T08:18:51+00:00</lastmod>
+    <lastmod>2024-09-17T08:18:51+00:00</lastmod>
     <priority>0.2</priority>
   </url>
   <url>
     <loc>https://toddle.dev/login</loc>
-    <lastmod>2024-04-29T08:18:51+00:00</lastmod>
+    <lastmod>2024-09-17T08:18:51+00:00</lastmod>
     <priority>0.2</priority>
   </url>
   <url>
