@@ -75,29 +75,44 @@
     <lastmod>2024-09-17T08:18:51+00:00</lastmod>
     <priority>0.80</priority>
   </url>
-  <!-- Blog and Docs pages Main pages that we consider important Score 0.4 - 0.7 -->
+  <!-- Blog, Docs, and other main pages that we consider important Score 0.4 - 0.7 -->
   <url>
     <loc>https://toddle.dev/press-kit</loc>
     <lastmod>2024-06-26T08:18:51+00:00</lastmod>
+    <priority>0.74</priority>
+  </url>
+    <url>
+    <loc>https://toddle.dev/refer</loc>
+    <lastmod>2024-10-22T08:18:51+00:00</lastmod>
     <priority>0.74</priority>
   </url>
   <!-- Academy -->
   <url>
     <loc>https://toddle.dev/academy/the-first-week-in-toddle</loc>
     <lastmod>2024-09-17T08:18:51+00:00</lastmod>
-    <priority>0.79</priority>
+    <priority>0.70</priority>
   </url>
   <url>
     <loc>https://toddle.dev/academy/seo-for-toddlers</loc>
     <lastmod>2024-09-17T08:18:51+00:00</lastmod>
-    <priority>0.78</priority>
+    <priority>0.70</priority>
   </url>
   <url>
     <loc>https://toddle.dev/academy/a-bubble-developers-guide-to-toddle</loc>
     <lastmod>2024-09-17T08:18:51+00:00</lastmod>
-    <priority>0.77</priority>
+    <priority>0.70</priority>
   </url>
   <!-- Blog posts -->
+  <url>
+    <loc>https://toddle.dev/blog/speed-up-your-app-with-lighthouse-wars</loc>
+    <lastmod>2024-10-16T08:18:51+00:00</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://toddle.dev/blog/how-toddle-thinks-about-responsive-design</loc>
+    <lastmod>2024-10-10T08:18:51+00:00</lastmod>
+    <priority>0.6</priority>
+  </url>
   <url>
     <loc>https://toddle.dev/blog/why-do-all-websites-look-the-same</loc>
     <lastmod>2024-09-04T08:18:51+00:00</lastmod>
@@ -270,6 +285,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://toddle.dev/customers/diplomatic-rebels</loc>
+    <lastmod>2024-07-04T08:18:51+00:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://toddle.dev/customers/klikwoi</loc>
     <lastmod>2024-07-02T08:18:51+00:00</lastmod>
     <priority>0.5</priority>
@@ -300,6 +320,16 @@
     <priority>0.5</priority>
   </url>
   <!-- Docs -->
+ <url>
+    <loc>https://toddle.dev/docs/default-styles</loc>
+    <lastmod>2024-04-29T08:18:51+00:00</lastmod>
+    <priority>0.79</priority>
+  </url>
+  <url>
+    <loc>https://toddle.dev/docs/project-wide-settings</loc>
+    <lastmod>2024-04-29T08:18:51+00:00</lastmod>
+    <priority>0.79</priority>
+  </url>
   <url>
     <loc>https://toddle.dev/docs/day-1-lets-build-a-weather-app</loc>
     <lastmod>2024-04-29T08:18:51+00:00</lastmod>
@@ -625,6 +655,26 @@
   <url>
     <loc>https://toddle.dev/docs/formulas/reference</loc>
     <lastmod>2024-06-12T08:18:51+00:00</lastmod>
+    <priority>0.3</priority>
+  </url> 
+  <url>
+    <loc>https://toddle.dev/partners/recrumind</loc>
+    <lastmod>2024-04-29T08:18:51+00:00</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://toddle.dev/partners/nocode-procode</loc>
+    <lastmod>2024-04-29T08:18:51+00:00</lastmod>
+    <priority>0.3</priority>
+  </url>
+    <url>
+    <loc>https://toddle.dev/partners/spark</loc>
+    <lastmod>2024-04-29T08:18:51+00:00</lastmod>
+    <priority>0.3</priority>
+  </url>
+    <url>
+    <loc>https://toddle.dev/partners/the-developers</loc>
+    <lastmod>2024-04-29T08:18:51+00:00</lastmod>
     <priority>0.3</priority>
   </url>
   <url>
