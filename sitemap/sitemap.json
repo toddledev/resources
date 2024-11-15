@@ -1,0 +1,847 @@
+[
+  {
+    "loc": "https://toddle.dev/",
+    "lastmod": "2024-09-04T08:16:35+00:00",
+    "priority": 1.0
+  },
+  {
+    "loc": "https://toddle.dev/blog",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.99
+  },
+  {
+    "loc": "https://toddle.dev/docs",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.98
+  },
+  {
+    "loc": "https://toddle.dev/docs/first-week-in-toddle",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.97
+  },
+  {
+    "loc": "https://toddle.dev/packages",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.96
+  },
+  {
+    "loc": "https://toddle.dev/founder-stories",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.95
+  },
+  {
+    "loc": "https://toddle.dev/integrations",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.94
+  },
+  {
+    "loc": "https://toddle.dev/partners",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.82
+  },
+  {
+    "loc": "https://toddle.dev/partner-program",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.81
+  },
+  {
+    "loc": "https://toddle.dev/pricing",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.8
+  },
+  {
+    "loc": "https://toddle.dev/unicorn-pricing",
+    "lastmod": "2024-07-12T08:18:51+00:00",
+    "priority": 0.8
+  },
+  {
+    "loc": "https://toddle.dev/contact",
+    "lastmod": "2024-07-18T08:18:51+00:00",
+    "priority": 0.8
+  },
+  {
+    "loc": "https://toddle.dev/callourceo",
+    "lastmod": "2024-07-18T08:18:51+00:00",
+    "priority": 0.8
+  },
+  {
+    "loc": "https://toddle.dev/academy",
+    "lastmod": "2024-09-17T08:18:51+00:00",
+    "priority": 0.8
+  },
+  {
+    "loc": "https://toddle.dev/press-kit",
+    "lastmod": "2024-06-26T08:18:51+00:00",
+    "priority": 0.74
+  },
+  {
+    "loc": "https://toddle.dev/refer",
+    "lastmod": "2024-10-22T08:18:51+00:00",
+    "priority": 0.74
+  },
+  {
+    "loc": "https://toddle.dev/academy/the-first-week-in-toddle",
+    "lastmod": "2024-09-17T08:18:51+00:00",
+    "priority": 0.7
+  },
+  {
+    "loc": "https://toddle.dev/academy/seo-for-toddlers",
+    "lastmod": "2024-09-17T08:18:51+00:00",
+    "priority": 0.7
+  },
+  {
+    "loc": "https://toddle.dev/academy/a-bubble-developers-guide-to-toddle",
+    "lastmod": "2024-09-17T08:18:51+00:00",
+    "priority": 0.7
+  },
+  {
+    "loc": "https://toddle.dev/blog/speed-up-your-app-with-lighthouse-wars",
+    "lastmod": "2024-10-16T08:18:51+00:00",
+    "priority": 0.6
+  },
+  {
+    "loc": "https://toddle.dev/blog/how-toddle-thinks-about-responsive-design",
+    "lastmod": "2024-10-10T08:18:51+00:00",
+    "priority": 0.6
+  },
+  {
+    "loc": "https://toddle.dev/blog/why-do-all-websites-look-the-same",
+    "lastmod": "2024-09-04T08:18:51+00:00",
+    "priority": 0.6
+  },
+  {
+    "loc": "https://toddle.dev/blog/no-more-no-code",
+    "lastmod": "2024-08-23T08:18:51+00:00",
+    "priority": 0.6
+  },
+  {
+    "loc": "https://toddle.dev/blog/how-we-raised-a-four-point-three-million-dollar-seed-round",
+    "lastmod": "2024-07-31T08:18:51+00:00",
+    "priority": 0.6
+  },
+  {
+    "loc": "https://toddle.dev/blog/toddle-is-soon-open-source",
+    "lastmod": "2024-07-25T08:18:51+00:00",
+    "priority": 0.6
+  },
+  {
+    "loc": "https://toddle.dev/blog/physics-based-animations-spring-to-life",
+    "lastmod": "2024-07-16T08:18:51+00:00",
+    "priority": 0.6
+  },
+  {
+    "loc": "https://toddle.dev/blog/can-software-identify-the-next-pogacar",
+    "lastmod": "2024-07-14T08:18:51+00:00",
+    "priority": 0.6
+  },
+  {
+    "loc": "https://toddle.dev/blog/unleash-the-spectrum-with-an-advanced-color-picker",
+    "lastmod": "2024-07-12T08:18:51+00:00",
+    "priority": 0.6
+  },
+  {
+    "loc": "https://toddle.dev/blog/built-in-toddle-exported-to-webflow",
+    "lastmod": "2024-06-03T08:18:51+00:00",
+    "priority": 0.6
+  },
+  {
+    "loc": "https://toddle.dev/blog/faster-than-light-loading-with-speculation-rules-api",
+    "lastmod": "2024-06-02T08:18:51+00:00",
+    "priority": 0.6
+  },
+  {
+    "loc": "https://toddle.dev/blog/can-software-identify-the-next-pogacar",
+    "lastmod": "2024-07-02T08:18:51+00:00",
+    "priority": 0.6
+  },
+  {
+    "loc": "https://toddle.dev/blog/unleash-the-spectrum-with-an-advanced-color-picker",
+    "lastmod": "2024-06-12T08:18:51+00:00",
+    "priority": 0.6
+  },
+  {
+    "loc": "https://toddle.dev/blog/the-carcinization-of-web-frameworks",
+    "lastmod": "2024-05-07T08:18:51+00:00",
+    "priority": 0.6
+  },
+  {
+    "loc": "https://toddle.dev/blog/how-useless-apps-teach-you-how-to-program-faster",
+    "lastmod": "2024-05-07T08:18:51+00:00",
+    "priority": 0.6
+  },
+  {
+    "loc": "https://toddle.dev/blog/no-more-dreadful-dropdowns-long-live-popover",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.6
+  },
+  {
+    "loc": "https://toddle.dev/blog/drop-a-beat",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.6
+  },
+  {
+    "loc": "https://toddle.dev/blog/march-performance-update",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.6
+  },
+  {
+    "loc": "https://toddle.dev/blog/ai-means-more-programmers-not-fewer",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.6
+  },
+  {
+    "loc": "https://toddle.dev/blog/one-size-does-not-fit-all",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.6
+  },
+  {
+    "loc": "https://toddle.dev/blog/what-is-an-mvp",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.6
+  },
+  {
+    "loc": "https://toddle.dev/blog/dont-be-a-toddle-developer",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.6
+  },
+  {
+    "loc": "https://toddle.dev/blog/real-programmers",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.6
+  },
+  {
+    "loc": "https://toddle.dev/blog/the-art-of-state-management-in-web-development",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.6
+  },
+  {
+    "loc": "https://toddle.dev/blog/figma-github-and-webflow-had-a-baby",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.6
+  },
+  {
+    "loc": "https://toddle.dev/blog/caching-best-practices",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.6
+  },
+  {
+    "loc": "https://toddle.dev/blog/what-happens-when-an-address-goes-into-a-browser",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.6
+  },
+  {
+    "loc": "https://toddle.dev/blog/the-intricacies-of-responsiveness",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.6
+  },
+  {
+    "loc": "https://toddle.dev/blog/how-becoming-a-no-code-developer-made-me-a-better-designer",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.6
+  },
+  {
+    "loc": "https://toddle.dev/blog/images-types-which-way-to-go",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.6
+  },
+  {
+    "loc": "https://toddle.dev/blog/unleash-the-power-of-edge-computing-for-no-code-developers",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.6
+  },
+  {
+    "loc": "https://toddle.dev/blog/rest-apis-explained",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.6
+  },
+  {
+    "loc": "https://toddle.dev/blog/seven-tips-to-improve-your-no-code-app",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.6
+  },
+  {
+    "loc": "https://toddle.dev/blog/urls-how-do-they-really-work",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.6
+  },
+  {
+    "loc": "https://toddle.dev/blog/why-we-built-toddle",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.6
+  },
+  {
+    "loc": "https://toddle.dev/customers/two-fans-changed-how-to-scout-cycling-talent",
+    "lastmod": "2024-07-04T08:18:51+00:00",
+    "priority": 0.5
+  },
+  {
+    "loc": "https://toddle.dev/customers/diplomatic-rebels",
+    "lastmod": "2024-07-04T08:18:51+00:00",
+    "priority": 0.5
+  },
+  {
+    "loc": "https://toddle.dev/customers/klikwoi",
+    "lastmod": "2024-07-02T08:18:51+00:00",
+    "priority": 0.5
+  },
+  {
+    "loc": "https://toddle.dev/customers/even-founders",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.5
+  },
+  {
+    "loc": "https://toddle.dev/customers/visual-devs",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.5
+  },
+  {
+    "loc": "https://toddle.dev/customers/localpost",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.5
+  },
+  {
+    "loc": "https://toddle.dev/customers/looplaunch",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.5
+  },
+  {
+    "loc": "https://toddle.dev/customers/metricommerce",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.5
+  },
+  {
+    "loc": "https://toddle.dev/docs/default-styles",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.79
+  },
+  {
+    "loc": "https://toddle.dev/docs/project-wide-settings",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.79
+  },
+  {
+    "loc": "https://toddle.dev/docs/day-1-lets-build-a-weather-app",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.79
+  },
+  {
+    "loc": "https://toddle.dev/docs/day-2-itunes-search-tool",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.78
+  },
+  {
+    "loc": "https://toddle.dev/docs/day-3-todo-app-with-an-external-backend",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.77
+  },
+  {
+    "loc": "https://toddle.dev/docs/day-4-ace-hit-me-21-blackjack",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.76
+  },
+  {
+    "loc": "https://toddle.dev/docs/day-5-showcase-data-in-a-dashboard",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.75
+  },
+  {
+    "loc": "https://toddle.dev/docs/you-made-it",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.74
+  },
+  {
+    "loc": "https://toddle.dev/docs/create-project",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.4
+  },
+  {
+    "loc": "https://toddle.dev/docs/edit-project",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.4
+  },
+  {
+    "loc": "https://toddle.dev/docs/preview-and-publishing",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.4
+  },
+  {
+    "loc": "https://toddle.dev/docs/publish-application",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.4
+  },
+  {
+    "loc": "https://toddle.dev/docs/branches",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.4
+  },
+  {
+    "loc": "https://toddle.dev/docs/the-editor",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.4
+  },
+  {
+    "loc": "https://toddle.dev/docs/the-canvas",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.4
+  },
+  {
+    "loc": "https://toddle.dev/docs/the-element-tree",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.4
+  },
+  {
+    "loc": "https://toddle.dev/docs/the-element-panel",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.4
+  },
+  {
+    "loc": "https://toddle.dev/docs/the-bottom-bar",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.4
+  },
+  {
+    "loc": "https://toddle.dev/docs/the-data-panel",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.4
+  },
+  {
+    "loc": "https://toddle.dev/docs/the-project-sidebar",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.4
+  },
+  {
+    "loc": "https://toddle.dev/docs/working-with-elements",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.4
+  },
+  {
+    "loc": "https://toddle.dev/docs/html-elements",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.4
+  },
+  {
+    "loc": "https://toddle.dev/docs/text-elements",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.4
+  },
+  {
+    "loc": "https://toddle.dev/docs/component-elements",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.4
+  },
+  {
+    "loc": "https://toddle.dev/docs/styling-your-toddle-app",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.4
+  },
+  {
+    "loc": "https://toddle.dev/docs/conditional-styles",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.4
+  },
+  {
+    "loc": "https://toddle.dev/docs/the-css-editor",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.4
+  },
+  {
+    "loc": "https://toddle.dev/docs/flexbox",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.4
+  },
+  {
+    "loc": "https://toddle.dev/docs/working-with-components",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.4
+  },
+  {
+    "loc": "https://toddle.dev/docs/attributes",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.4
+  },
+  {
+    "loc": "https://toddle.dev/docs/variables",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.4
+  },
+  {
+    "loc": "https://toddle.dev/docs/events",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.4
+  },
+  {
+    "loc": "https://toddle.dev/docs/slots",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.4
+  },
+  {
+    "loc": "https://toddle.dev/docs/context",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.4
+  },
+  {
+    "loc": "https://toddle.dev/docs/creating-a-new-page",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.4
+  },
+  {
+    "loc": "https://toddle.dev/docs/dynamic-pages",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.4
+  },
+  {
+    "loc": "https://toddle.dev/docs/adding-scripts-and-links-to-the-page-head",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.4
+  },
+  {
+    "loc": "https://toddle.dev/docs/working-with-apis",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.4
+  },
+  {
+    "loc": "https://toddle.dev/docs/setting-up-an-api",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.4
+  },
+  {
+    "loc": "https://toddle.dev/docs/authentication",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.4
+  },
+  {
+    "loc": "https://toddle.dev/docs/advanced-api-configuration",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.4
+  },
+  {
+    "loc": "https://toddle.dev/docs/formula-editor",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.4
+  },
+  {
+    "loc": "https://toddle.dev/docs/show-hide-formula",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.4
+  },
+  {
+    "loc": "https://toddle.dev/docs/repeat-formulas",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.4
+  },
+  {
+    "loc": "https://toddle.dev/docs/workflows",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.4
+  },
+  {
+    "loc": "https://toddle.dev/docs/reacting-to-events",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.4
+  },
+  {
+    "loc": "https://toddle.dev/docs/install-packages",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.4
+  },
+  {
+    "loc": "https://toddle.dev/docs/creating-packages",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.4
+  },
+  {
+    "loc": "https://toddle.dev/docs/custom-actions",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.4
+  },
+  {
+    "loc": "https://toddle.dev/docs/custom-code-api",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.4
+  },
+  {
+    "loc": "https://toddle.dev/docs/why-toddle-does-not-have-a-database",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.4
+  },
+  {
+    "loc": "https://toddle.dev/docs/surf-shop-fastgen-and-toddle",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.4
+  },
+  {
+    "loc": "https://toddle.dev/docs/building-a-content-site-with-toddle-and-contentful",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.4
+  },
+  {
+    "loc": "https://toddle.dev/docs/buildship",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.4
+  },
+  {
+    "loc": "https://toddle.dev/docs/supabase",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.4
+  },
+  {
+    "loc": "https://toddle.dev/docs/xano",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.4
+  },
+  {
+    "loc": "https://toddle.dev/docs/unsplash",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.4
+  },
+  {
+    "loc": "https://toddle.dev/docs/spline",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.4
+  },
+  {
+    "loc": "https://toddle.dev/docs/airtable",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.4
+  },
+  {
+    "loc": "https://toddle.dev/docs/weglot",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.4
+  },
+  {
+    "loc": "https://toddle.dev/docs/bravo-studio",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.4
+  },
+  {
+    "loc": "https://toddle.dev/docs/export-component",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.4
+  },
+  {
+    "loc": "https://toddle.dev/docs/custom-domains",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.4
+  },
+  {
+    "loc": "https://toddle.dev/docs/actions/",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.4
+  },
+  {
+    "loc": "https://toddle.dev/named-html-colors",
+    "lastmod": "2024-06-12T08:18:51+00:00",
+    "priority": 0.3
+  },
+  {
+    "loc": "https://toddle.dev/docs/actions/reference",
+    "lastmod": "2024-06-12T08:18:51+00:00",
+    "priority": 0.3
+  },
+  {
+    "loc": "https://toddle.dev/docs/formulas/reference",
+    "lastmod": "2024-06-12T08:18:51+00:00",
+    "priority": 0.3
+  },
+  {
+    "loc": "https://toddle.dev/partners/recrumind",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.3
+  },
+  {
+    "loc": "https://toddle.dev/partners/nocode-procode",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.3
+  },
+  {
+    "loc": "https://toddle.dev/partners/spark",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.3
+  },
+  {
+    "loc": "https://toddle.dev/partners/the-developers",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.3
+  },
+  {
+    "loc": "https://toddle.dev/partners/visual-devs",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.3
+  },
+  {
+    "loc": "https://toddle.dev/partners/product-minds",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.3
+  },
+  {
+    "loc": "https://toddle.dev/partners/spinnakernordic",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.3
+  },
+  {
+    "loc": "https://toddle.dev/partners/kvalifik",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.3
+  },
+  {
+    "loc": "https://toddle.dev/partners/nocodecoders",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.3
+  },
+  {
+    "loc": "https://toddle.dev/partners/narrowai",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.3
+  },
+  {
+    "loc": "https://toddle.dev/partners/trynocode",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.3
+  },
+  {
+    "loc": "https://toddle.dev/partners/get-digitalised",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.3
+  },
+  {
+    "loc": "https://toddle.dev/partners/yec-company",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.3
+  },
+  {
+    "loc": "https://toddle.dev/partners/agemia",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.3
+  },
+  {
+    "loc": "https://toddle.dev/partners/chrysalis",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.3
+  },
+  {
+    "loc": "https://toddle.dev/partners/smartnexus",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.3
+  },
+  {
+    "loc": "https://toddle.dev/partners/leverall",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.3
+  },
+  {
+    "loc": "https://toddle.dev/partners/28k",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.3
+  },
+  {
+    "loc": "https://toddle.dev/partners/projectcues",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.3
+  },
+  {
+    "loc": "https://toddle.dev/signup",
+    "lastmod": "2024-09-17T08:18:51+00:00",
+    "priority": 0.2
+  },
+  {
+    "loc": "https://toddle.dev/login",
+    "lastmod": "2024-09-17T08:18:51+00:00",
+    "priority": 0.2
+  },
+  {
+    "loc": "https://toddle.dev/ask-a-robot",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.1
+  },
+  {
+    "loc": "https://toddle.dev/terms",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.2
+  },
+  {
+    "loc": "https://toddle.dev/privacy-policy",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.2
+  },
+  {
+    "loc": "https://toddle.dev/terms/dmca-takedown-policy",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.1
+  },
+  {
+    "loc": "https://toddle.dev/terms/disrupting-the-experience-of-other-users",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.1
+  },
+  {
+    "loc": "https://toddle.dev/terms/acceptable-use-policies",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.1
+  },
+  {
+    "loc": "https://toddle.dev/terms/open-source-terms",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.1
+  },
+  {
+    "loc": "https://toddle.dev/terms/code-of-conduct",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.1
+  },
+  {
+    "loc": "https://toddle.dev/terms/disputes-policy",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.1
+  },
+  {
+    "loc": "https://toddle.dev/terms/doxxing-and-invasion-of-privacy",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.1
+  },
+  {
+    "loc": "https://toddle.dev/terms/private-information-removal-policy",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.1
+  },
+  {
+    "loc": "https://toddle.dev/terms/community-guidelines",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.1
+  },
+  {
+    "loc": "https://toddle.dev/terms/appeal-and-reinstatement",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.1
+  },
+  {
+    "loc": "https://toddle.dev/terms/trademark-policy",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.1
+  },
+  {
+    "loc": "https://toddle.dev/terms/bullying-and-harassment",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.1
+  },
+  {
+    "loc": "https://toddle.dev/terms/submit-a-dmca-counter-notice",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.1
+  },
+  {
+    "loc": "https://toddle.dev/terms/submit-a-dmca-takedown-notice",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.1
+  },
+  {
+    "loc": "https://toddle.dev/terms/unpublish-policy",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.1
+  },
+  {
+    "loc": "https://toddle.dev/terms/logos-and-usage",
+    "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.1
+  }
+]
