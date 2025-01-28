@@ -135,11 +135,6 @@
     "priority": 0.6
   },
   {
-    "loc": "https://toddle.dev/blog/can-software-identify-the-next-pogacar",
-    "lastmod": "2024-07-14T08:18:51+00:00",
-    "priority": 0.6
-  },
-  {
     "loc": "https://toddle.dev/blog/unleash-the-spectrum-with-an-advanced-color-picker",
     "lastmod": "2024-07-12T08:18:51+00:00",
     "priority": 0.6
@@ -157,11 +152,6 @@
   {
     "loc": "https://toddle.dev/blog/can-software-identify-the-next-pogacar",
     "lastmod": "2024-07-02T08:18:51+00:00",
-    "priority": 0.6
-  },
-  {
-    "loc": "https://toddle.dev/blog/unleash-the-spectrum-with-an-advanced-color-picker",
-    "lastmod": "2024-06-12T08:18:51+00:00",
     "priority": 0.6
   },
   {
@@ -272,6 +262,11 @@
   {
     "loc": "https://toddle.dev/blog/why-we-built-toddle",
     "lastmod": "2024-04-29T08:18:51+00:00",
+    "priority": 0.6
+  },
+  {
+    "loc": "https://toddle.dev/blog/open-source-more-than-just-readable-code"
+    "lastmod": "2025-01-28T08:18:51+00:00",
     "priority": 0.6
   },
   {
